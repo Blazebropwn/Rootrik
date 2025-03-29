@@ -9,7 +9,7 @@
 - 🎮 Playing the Real-Life Game – Leveling up skills daily  
 - 🔍 Learning Ethical Hacking, MitM, Wireshark, Payloads  
 - 🧱 Building foundations in Full-Stack Web Development  
-- 📍 Czech Republic 🇨🇿  
+- 📍 Czech Republic
 - 📧 rootrik@proton.me  
 
 ---
