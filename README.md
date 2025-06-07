@@ -18,3 +18,5 @@
 ---
 
 > "No fire too hot. No system too locked." 🔓🔥
+
+![My TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlazeBro.png)
