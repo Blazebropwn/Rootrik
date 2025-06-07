@@ -15,8 +15,6 @@
 - 📫 Contact: [rootrik@proton.me](mailto:rootrik@proton.me)  
 - 🕹️ aka: `BlazeBro.gg`
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlazeBro.png)](https://tryhackme.com/p/BlazeBro)
-
 ---
 
 > "No fire too hot. No system too locked." 🔓🔥
