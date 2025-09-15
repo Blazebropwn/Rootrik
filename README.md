@@ -1,20 +1,25 @@
-<h1 align="center">⚡ Rootrik</h1>
+# Blazebropwn
 
-<p align="center">
-👨‍🚒 Professional Firefighter &nbsp;|&nbsp; 💻 Aspiring Ethical Hacker & Web Developer  
-</p>
+## Who I Am
+- Professional firefighter by duty.  
+- Developer & security enthusiast by choice.  
+- Hacker by mindset – exploring systems, breaking barriers, learning constantly.  
+
+## What I Build
+- BlazeLab → personal dev & security lab for experiments.  
+- P1NG → Discord bot for notes, quests and automation.  
+- Slot Engine PRO → indie-grade casino math & game engine.  
+- Galactic Rush → retro pixel-art arcade shooter.  
+- Hunter-Agent → airdrop tracker & wallet monitor.  
+- Kryptotron → experimental crypto trading bot.  
+
+## What I Learn
+- Cybersecurity → payloads, XSS, sniffing, MitM, Wireshark  
+- Full-Stack Dev → Node.js, TypeScript, React, MongoDB, Tailwind  
+- Crypto & Web3 → airdrops, automation  
+
+- Blazebro.eth  
 
 ---
 
-- 🎮 Playing the Real-Life Game – leveling up daily through code & curiosity  
-- 🧠 Learning Cybersecurity: XSS, Payloads, Sniffing, MitM, Wireshark  
-- 🧱 Building solid Full-Stack foundations (Node.js, MongoDB, JS, HTML/CSS)  
-- 🧪 Creating **BlazeLab** – a hands-on security lab for testing and learning  
-- 🤖 Developing **P1NG** – a personal Discord bot for notes, quests, automation  
-- 🌍 Based in Czech Republic  
-- 📫 Contact: [rootrik@proton.me](mailto:rootrik@proton.me)  
-- 🕹️ aka: `BlazeBro.gg`
-
----
-
-> "No fire too hot. No system too locked." 🔓🔥
+*What can be built can be broken.*
